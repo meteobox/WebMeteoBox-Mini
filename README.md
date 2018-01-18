@@ -1,5 +1,5 @@
 # WebMeteoBox-Mini
-
+<pre>
 ------ Build started: Project: WebMeteoBox-mini, Configuration: Debug AVR ------
 Build started.
 Project "WebMeteoBox-mini.cproj" (default targets):
